@@ -16,3 +16,11 @@
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/notepad.git
+   
+2. Build the project:
+3. Open the .pro file in Qt Creator.
+4. Build and run the project.
+
+
+### License
+Not licensed. Feel free to play around.
